@@ -1,0 +1,98 @@
+h1 {
+    color: blue;
+    background: grey;
+    text-align: center;
+}
+
+h2 {
+    color: orangered;
+}
+
+
+/* caixa 1 */
+
+.caixa_1 {
+    background: green;
+    padding: 20px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+
+.caixa_1 h2 {
+    color: white;
+}
+
+.caixa_1 p {
+    color: white;
+}
+
+
+/* caixa 2 */
+
+.caixa_2 {
+    background: yellow;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.caixa_2 h2 {
+    color: black;
+}
+
+.caixa_2 p {
+    color: black;
+}
+
+
+/* caixa 3 */
+
+.caixa_3 {
+    background: blue;
+    padding: 20px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+
+.caixa_3 h2 {
+    color: white;
+}
+
+.caixa_3 ol li {
+    color: white;
+    list-style-type: upper-alpha;
+}
+
+
+/* caixa 4 */
+
+.caixa_4 {
+    background: pink;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.caixa_4 h2 {
+    color: black;
+}
+
+.caixa_4 ul li {
+    color: black;
+    list-style-type: circle;
+}
+
+
+/* caixa 5 */
+
+.caixa_5 {
+    background: purple;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.caixa_5 h2 {
+    color: white;
+}
+
+.caixa_5 p {
+    color: white;
+}
