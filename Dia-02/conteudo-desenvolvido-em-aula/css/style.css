@@ -1,0 +1,68 @@
+.titulo {
+    font-size: 40px;
+    color: #E6484F;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    padding: 30px;
+    border: 10px solid orange;
+    border-radius: 20px;
+}
+
+.nav_li {
+    font-size: 20px;
+    color: blue;
+    text-decoration: line-through;
+}
+
+/* main */
+
+
+
+.paragrafo {
+    font-size: 16px;
+    text-align: justify;
+    color: rgb(121, 0, 84);
+}
+
+/* section */
+
+.section_li {
+    color: green;
+    margin: 10px;
+}
+
+/* quadrado no meio */
+
+.quadrado_no_meio {
+    background: crimson;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.quadrado_no_meio h2 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    margin-bottom: 100px;
+}
+
+.quadrado_no_meio p {
+    color: white;
+    text-align: center;
+    font-size: 22px;
+}
+
+/* footer */
+
+.footer {
+    background-color: black;
+    padding: 50px;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+.titulo_do_rodape {
+    color: white;
+    text-align: center;
+}
