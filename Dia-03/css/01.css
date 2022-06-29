@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    padding: 100px;
+    font-size: 20px;
+}
+
+.fonte_900 {
+    font-weight: 900;
+}
+
+.fonte_800 {
+    font-weight: 800;
+}
+
+.fonte_800 {
+    font-weight: 800;
+}
+
+.fonte_700 {
+    font-weight: 700;
+}
+
+.fonte_600 {
+    font-weight: 600;
+}
+
+.fonte_500 {
+    font-weight: 500;
+}
+
+.fonte_400 {
+    font-weight: 400;
+}
+
+.fonte_300 {
+    font-weight: 300;
+}
