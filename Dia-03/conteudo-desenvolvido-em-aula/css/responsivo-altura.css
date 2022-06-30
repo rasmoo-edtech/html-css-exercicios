@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    width: 100%;
+}
+
+.container {
+    width: 900px;
+    height: 600px;
+    background: orange;
+}
+
+/* @media */
+
+@media screen and (min-height: 600px) and (max-height: 700px){
+    .container {
+        background: red;
+    }
+}

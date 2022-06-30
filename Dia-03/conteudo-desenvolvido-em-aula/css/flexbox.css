@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body, html {
+    overflow-x: hidden;
+}
+
+/* header */
+
+.header {
+    width: 100%;
+    background: rgb(245, 245, 245);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.header ol {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    column-gap: 50px;
+}
+
+.header ol li {
+    list-style: none;
+}
+
+/* main */
+
+.main {
+    width: 100%;
+    margin-top: 100px;
+
+    /* dividir no meio */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.primeira_div {
+    width: 500px;
+    padding: 40px;
+    background: rgb(245, 245, 245);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.segunda_div {
+    width: 500px;
+    padding: 40px;
+    text-align: justify;
+    background: rgb(245, 245, 245);
+    border-radius: 10px;
+}
+
+/* container */
+
+.container {
+    width: 500px;
+    margin-top: 100px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background: rgb(245, 245, 245);
+    border-radius: 10px;
+}
+
+.pai_do_quadrado {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+.quadrado {
+    width: 100px;
+    height: 100px;
+    background: purple;
+}

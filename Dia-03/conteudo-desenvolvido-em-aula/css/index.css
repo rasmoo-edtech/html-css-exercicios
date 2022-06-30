@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    width: 100%;
+    height: 700px;
+    background: orangered;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    row-gap: 20px;
+    margin-bottom: 200px;
+}
+
+.container2 {
+    width: 100%;
+    height: 700px;
+    background: orangered;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    row-gap: 20px;
+}
+
+.caixa {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
